@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/google_auto_suggest_keywords/static/css/main.8b34b3b6.chunk.css",
+    "main.js": "/google_auto_suggest_keywords/static/js/main.f7b20017.chunk.js",
+    "main.js.map": "/google_auto_suggest_keywords/static/js/main.f7b20017.chunk.js.map",
+    "runtime-main.js": "/google_auto_suggest_keywords/static/js/runtime-main.06f76e7c.js",
+    "runtime-main.js.map": "/google_auto_suggest_keywords/static/js/runtime-main.06f76e7c.js.map",
+    "static/js/2.5ad7273d.chunk.js": "/google_auto_suggest_keywords/static/js/2.5ad7273d.chunk.js",
+    "static/js/2.5ad7273d.chunk.js.map": "/google_auto_suggest_keywords/static/js/2.5ad7273d.chunk.js.map",
+    "index.html": "/google_auto_suggest_keywords/index.html",
+    "static/css/main.8b34b3b6.chunk.css.map": "/google_auto_suggest_keywords/static/css/main.8b34b3b6.chunk.css.map",
+    "static/js/2.5ad7273d.chunk.js.LICENSE.txt": "/google_auto_suggest_keywords/static/js/2.5ad7273d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06f76e7c.js",
+    "static/js/2.5ad7273d.chunk.js",
+    "static/css/main.8b34b3b6.chunk.css",
+    "static/js/main.f7b20017.chunk.js"
+  ]
+}
